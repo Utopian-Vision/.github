@@ -41,6 +41,12 @@ Access to sustainable and safe public sanitation improves hygiene practices, whi
 
 In the context of underdeveloped countries, there is no proper urban planning and coordination among concerned authorities which eventually affects our ecological diversity, environment and health. In unplanned planning there is rapid urbanization and industrialization growth which limits access to basic infrastructure, hospitals, and quality essential services as mentioned above. Our web application will inform people about the possible development necessary in their community and also provides factual information for governmental and non governmental organization, so they can work towards achieving sustainable development.
 
+# Future Improvements:
+- Machine Learning Optimization
+- Increase the data that can be analyzed
+- Include isochrone API to build a  buffer according to the user's reach
+- Analyze raster data ( For population, pollution, elevation and slope analysis )
+- Build the  commercial facilitating application
 
 # Presentaion:
 https://www.canva.com/design/DAFgjyPmc7w/Fc30pS9IDDvhe1PHLEU6AQ/edit?utm_content=DAFgjyPmc7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
